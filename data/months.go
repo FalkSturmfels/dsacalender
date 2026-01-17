@@ -12,20 +12,61 @@ type Day struct {
 }
 
 type Month struct {
-	Month string `json:"month"`
-	Id    int    `json:"id"`
-	Real  string `json:"real"`
-	Days  []Day  `json:"days"`
+	Month      string `json:"month"`
+	Id         int    `json:"id"`
+	Real       string `json:"real"`
+	FirstDayId int    `json:"firstDay"`
+	LastDayId  int    `json:"lastDay"`
+	Days       []Day  `json:"days"`
 }
 
 //go:embed months.json
 var monthsfile []byte
 
 var Months []Month
+var MonthMap map[int]Month
+
+func GetMonthByDay(dayId int) Month {
+	for _, month := range MonthMap {
+		if month.ContainsDay(dayId) {
+			return month
+		}
+	}
+	return Month{}
+}
+
+func (m Month) GetDay(dayId int) Day {
+	for _, day := range m.Days {
+		if day.Id == dayId {
+			return day
+		}
+	}
+	return Day{}
+}
+
+func (m Month) ContainsDay(dayId int) bool {
+	return m.FirstDayId <= dayId && dayId <= m.LastDayId
+}
+
+func (m Month) FirstDay() Day {
+	return m.Days[0]
+}
+
+func (m Month) LastDay() Day {
+	return m.Days[len(m.Days)-1]
+}
+
+func GetMonth(monthId int) Month {
+	return MonthMap[monthId]
+}
 
 func init() {
-	Months = []Month{}
 	if err := json.Unmarshal(monthsfile, &Months); err != nil {
 		fmt.Println("Cannot load months json")
+	}
+
+	MonthMap = make(map[int]Month)
+	for _, month := range Months {
+		MonthMap[month.Id] = month
 	}
 }

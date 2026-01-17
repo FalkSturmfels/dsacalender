@@ -3,6 +3,8 @@
         "month": "Neujahresmond",
         "id": 1,
         "real": "Januar",
+        "firstDay": 1,
+        "lastDay": 31,
         "days": [
             {
                 "id": 1,
@@ -134,6 +136,8 @@
         "month": "Altmond",
         "id": 2,
         "real": "Februar",
+        "firstDay": 32,
+        "lastDay": 61,
         "days": [
             {
                 "id": 32,
@@ -261,6 +265,8 @@
         "month": "Nebelmond",
         "id": 3,
         "real": "März",
+        "firstDay": 62,
+        "lastDay": 92,
         "days": [
             {
                 "id": 62,
@@ -392,6 +398,8 @@
         "month": "Saatmond",
         "id": 4,
         "real": "April",
+        "firstDay": 93,
+        "lastDay": 122,
         "days": [
             {
                 "id": 93,
@@ -519,6 +527,8 @@
         "month": "Erdmond",
         "id": 5,
         "real": "Mai",
+        "firstDay": 123,
+        "lastDay": 152,
         "days": [
             {
                 "id": 123,
@@ -646,6 +656,8 @@
         "month": "Rauschmond",
         "id": 6,
         "real": "Juni",
+        "firstDay": 153,
+        "lastDay": 183,
         "days": [
             {
                 "id": 153,
@@ -777,6 +789,8 @@
         "month": "Sonnenmond",
         "id": 7,
         "real": "Juli",
+        "firstDay": 184,
+        "lastDay": 213,
         "days": [
             {
                 "id": 184,
@@ -904,6 +918,8 @@
         "month": "Kriegsmond",
         "id": 8,
         "real": "August",
+        "firstDay": 214,
+        "lastDay": 243,
         "days": [
             {
                 "id": 214,
@@ -1031,6 +1047,8 @@
         "month": "Aufruhrmond",
         "id": 9,
         "real": "September",
+        "firstDay": 244,
+        "lastDay": 274,
         "days": [
             {
                 "id": 244,
@@ -1162,6 +1180,8 @@
         "month": "Fallmond",
         "id": 10,
         "real": "Oktober",
+        "firstDay": 275,
+        "lastDay": 304,
         "days": [
             {
                 "id": 275,
@@ -1289,6 +1309,8 @@
         "month": "Staubmond",
         "id": 11,
         "real": "November",
+        "firstDay": 305,
+        "lastDay": 334,
         "days": [
             {
                 "id": 305,
@@ -1416,6 +1438,8 @@
         "month": "Nachtmond",
         "id": 12,
         "real": "Dezember",
+        "firstDay": 335,
+        "lastDay": 365,
         "days": [
             {
                 "id": 335,
@@ -1544,4 +1568,3 @@
         ]
     }
 ]
-
