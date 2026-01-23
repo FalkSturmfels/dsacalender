@@ -8,127 +8,158 @@
         "days": [
             {
                 "id": 1,
-                "name": "Erster Neujahresfesttag"
+                "name": "Erster Neujahresfesttag",
+                "short": "Neujahr"
             },
             {
                 "id": 2,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 3,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 4,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 5,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 6,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 7,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 8,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 9,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 10,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 11,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 12,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 13,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 14,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 15,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 16,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 17,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 18,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 19,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 20,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 21,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 22,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 23,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 24,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 25,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 26,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 27,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 28,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 29,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 30,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 31,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -141,123 +172,153 @@
         "days": [
             {
                 "id": 32,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 33,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 34,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 35,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 36,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 37,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 38,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 39,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 40,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 41,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 42,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 43,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 44,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 45,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 46,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 47,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 48,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 49,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 50,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 51,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 52,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 53,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 54,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 55,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 56,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 57,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 58,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 59,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 60,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 61,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -270,127 +331,158 @@
         "days": [
             {
                 "id": 62,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 63,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 64,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 65,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 66,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 67,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 68,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 69,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 70,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 71,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 72,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 73,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 74,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 75,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 76,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 77,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 78,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 79,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 80,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 81,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 82,
-                "name": "Tag und Nachtgleiche (Frühling)"
+                "name": "Tag und Nachtgleiche (Frühling)",
+                "short": "TN (Frühl.)"
             },
             {
                 "id": 83,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 84,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 85,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 86,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 87,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 88,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 89,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 90,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 91,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 92,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -403,123 +495,153 @@
         "days": [
             {
                 "id": 93,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 94,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 95,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 96,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 97,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 98,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 99,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 100,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 101,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 102,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 103,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 104,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 105,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 106,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 107,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 108,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 109,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 110,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 111,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 112,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 113,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 114,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 115,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 116,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 117,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 118,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 119,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 120,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 121,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 122,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -532,123 +654,153 @@
         "days": [
             {
                 "id": 123,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 124,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 125,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 126,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 127,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 128,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 129,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 130,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 131,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 132,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 133,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 134,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 135,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 136,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 137,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 138,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 139,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 140,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 141,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 142,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 143,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 144,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 145,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 146,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 147,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 148,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 149,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 150,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 151,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 152,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -661,127 +813,158 @@
         "days": [
             {
                 "id": 153,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 154,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 155,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 156,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 157,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 158,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 159,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 160,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 161,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 162,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 163,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 164,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 165,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 166,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 167,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 168,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 169,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 170,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 171,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 172,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 173,
-                "name": "Sommersonnenwende"
+                "name": "Sommersonnenwende",
+                "short": "Sommerw."
             },
             {
                 "id": 174,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 175,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 176,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 177,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 178,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 179,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 180,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 181,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 182,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 183,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -794,123 +977,153 @@
         "days": [
             {
                 "id": 184,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 185,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 186,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 187,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 188,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 189,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 190,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 191,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 192,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 193,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 194,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 195,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 196,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 197,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 198,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 199,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 200,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 201,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 202,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 203,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 204,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 205,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 206,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 207,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 208,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 209,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 210,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 211,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 212,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 213,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -923,123 +1136,153 @@
         "days": [
             {
                 "id": 214,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 215,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 216,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 217,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 218,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 219,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 220,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 221,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 222,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 223,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 224,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 225,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 226,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 227,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 228,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 229,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 230,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 231,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 232,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 233,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 234,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 235,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 236,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 237,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 238,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 239,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 240,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 241,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 242,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 243,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -1052,127 +1295,158 @@
         "days": [
             {
                 "id": 244,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 245,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 246,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 247,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 248,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 249,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 250,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 251,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 252,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 253,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 254,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 255,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 256,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 257,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 258,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 259,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 260,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 261,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 262,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 263,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 264,
-                "name": "Tag- und Nachtgleiche (Herbst)"
+                "name": "Tag und Nachtgleiche (Herbst)",
+                "short": "TN (Herbst)"
             },
             {
                 "id": 265,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 266,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 267,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 268,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 269,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 270,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 271,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 272,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 273,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 274,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -1185,123 +1459,153 @@
         "days": [
             {
                 "id": 275,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 276,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 277,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 278,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 279,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 280,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 281,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 282,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 283,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 284,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 285,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 286,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 287,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 288,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 289,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 290,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 291,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 292,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 293,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 294,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 295,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 296,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 297,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 298,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 299,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 300,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 301,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 302,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 303,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 304,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -1314,123 +1618,153 @@
         "days": [
             {
                 "id": 305,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 306,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 307,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 308,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 309,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 310,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 311,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 312,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 313,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 314,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 315,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 316,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 317,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 318,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 319,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 320,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 321,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 322,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 323,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 324,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 325,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 326,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 327,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 328,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 329,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 330,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 331,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 332,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 333,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 334,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     },
@@ -1443,127 +1777,158 @@
         "days": [
             {
                 "id": 335,
-                "name": "Feiertag"
+                "name": "Feiertag",
+                "short": "Feier"
             },
             {
                 "id": 336,
-                "name": "1. Untergangstag"
+                "name": "1. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 337,
-                "name": "1. Staubtag"
+                "name": "1. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 338,
-                "name": "1. Nachttag"
+                "name": "1. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 339,
-                "name": "1. Sternentag"
+                "name": "1. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 340,
-                "name": "1. Regungstag"
+                "name": "1. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 341,
-                "name": "1. Gedeihtag"
+                "name": "1. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 342,
-                "name": "1. Sonnentag"
+                "name": "1. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 343,
-                "name": "2. Untergangstag"
+                "name": "2. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 344,
-                "name": "2. Staubtag"
+                "name": "2. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 345,
-                "name": "2. Nachttag"
+                "name": "2. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 346,
-                "name": "2. Sternentag"
+                "name": "2. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 347,
-                "name": "2. Regungstag"
+                "name": "2. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 348,
-                "name": "2. Gedeihtag"
+                "name": "2. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 349,
-                "name": "2. Sonnentag"
+                "name": "2. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 350,
-                "name": "3. Untergangstag"
+                "name": "3. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 351,
-                "name": "3. Staubtag"
+                "name": "3. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 352,
-                "name": "3. Nachttag"
+                "name": "3. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 353,
-                "name": "3. Sternentag"
+                "name": "3. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 354,
-                "name": "3. Regungstag"
+                "name": "3. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 355,
-                "name": "Wintersonnenwende"
+                "name": "Wintersonnenwende",
+                "short": "Winterw."
             },
             {
                 "id": 356,
-                "name": "3. Gedeihtag"
+                "name": "3. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 357,
-                "name": "3. Sonnentag"
+                "name": "3. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 358,
-                "name": "4. Untergangstag"
+                "name": "4. Untergangstag",
+                "short": "Untergang"
             },
             {
                 "id": 359,
-                "name": "4. Staubtag"
+                "name": "4. Staubtag",
+                "short": "Staub"
             },
             {
                 "id": 360,
-                "name": "4. Nachttag"
+                "name": "4. Nachttag",
+                "short": "Nacht"
             },
             {
                 "id": 361,
-                "name": "4. Sternentag"
+                "name": "4. Sternentag",
+                "short": "Sternen"
             },
             {
                 "id": 362,
-                "name": "4. Regungstag"
+                "name": "4. Regungstag",
+                "short": "Regung"
             },
             {
                 "id": 363,
-                "name": "4. Gedeihtag"
+                "name": "4. Gedeihtag",
+                "short": "Gedeih"
             },
             {
                 "id": 364,
-                "name": "4. Sonnentag"
+                "name": "4. Sonnentag",
+                "short": "Sonnen"
             },
             {
                 "id": 365,
-                "name": "Göttertag"
+                "name": "Göttertag",
+                "short": "Götter"
             }
         ]
     }

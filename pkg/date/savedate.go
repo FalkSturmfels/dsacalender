@@ -14,13 +14,13 @@ type SaveDate struct {
 	Year    int `json:"year"`
 }
 
-func SaveCurrentDate(sd Date) error {
+func SaveCurrentDate(cd Date) error {
 	path, err := filemgr.CurrentDayPath()
 	if err != nil {
 		return err
 	}
 
-	data, err := json.MarshalIndent(dateToSaveDate(sd), "", "  ")
+	data, err := json.MarshalIndent(dateToSaveDate(cd), "", "  ")
 	if err != nil {
 		return err
 	}
